@@ -5,6 +5,6 @@ Find interesting tech readings here.
 
 - [Fork a Git Project](https://help.github.com/articles/fork-a-repo/)
 
-# Android
+## Android
 
 - [MVVM (Design Pattern)](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)
