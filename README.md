@@ -8,3 +8,8 @@ Find interesting tech readings here.
 ## Android
 
 - [MVVM - Design Pattern (Medium)](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)
+
+
+## General
+
+-[Web Scraping (Beautiful Soup)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
