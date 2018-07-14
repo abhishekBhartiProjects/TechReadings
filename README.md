@@ -12,4 +12,4 @@ Find interesting tech readings here.
 
 ## General
 
--[Web Scraping (Beautiful Soup)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Web Scraping (Beautiful Soup)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
