@@ -10,6 +10,10 @@ Find interesting tech readings here.
 
 - [MVVM - Design Pattern (Medium)](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)
 
+- [Gradle Training (Gradle.org)](https://gradle.org/training/)
+
+- [Create Instant App (developers.android.com)](https://developer.android.com/topic/google-play-instant/getting-started/feature-plugin)
+
 
 ## General
 
