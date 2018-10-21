@@ -14,6 +14,12 @@ Find interesting tech readings here.
 
 - [Create Instant App (developers.android.com)](https://developer.android.com/topic/google-play-instant/getting-started/feature-plugin)
 
+- [RxJava (Toptal)](https://www.toptal.com/android/functional-reactive-android-rxjava)
+- [RxJava (Medium)](https://medium.com/exploring-code/code-your-next-android-app-using-rxjava-d1db30ac9fcc)
+- [RxJava (AndroidHive)](https://www.androidhive.info/RxJava/android-getting-started-with-reactive-programming/)
+- [RxJava (Vogella)](http://www.vogella.com/tutorials/RxJava/article.html)
+
+
 
 ## General
 
