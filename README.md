@@ -1,4 +1,4 @@
-# TechReadings
+# TechReadings / Helpful weblinks
 Find interesting tech readings here.
 
 ## GIT
