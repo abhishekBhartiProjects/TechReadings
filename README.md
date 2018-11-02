@@ -18,6 +18,7 @@ Find interesting tech readings here.
 - [RxJava (Medium)](https://medium.com/exploring-code/code-your-next-android-app-using-rxjava-d1db30ac9fcc)
 - [RxJava (AndroidHive)](https://www.androidhive.info/RxJava/android-getting-started-with-reactive-programming/)
 - [RxJava (Vogella)](http://www.vogella.com/tutorials/RxJava/article.html)
+- [Android Library/SDK development (Youtube)](https://www.youtube.com/watch?v=RYiZZprUNJw)
 
 
 
