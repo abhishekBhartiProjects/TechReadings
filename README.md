@@ -2,7 +2,7 @@
 Find interesting tech readings here.
 
 ## GIT
-
+- [Github public api (Github)](https://api.github.com/)
 - [Fork a Git Project (Github)](https://help.github.com/articles/fork-a-repo/)
 - [Vim Commands Basics (Coderwall)](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started) - Learn shortcut keys for vim editor
 
@@ -18,6 +18,7 @@ Find interesting tech readings here.
 - [RxJava (Medium)](https://medium.com/exploring-code/code-your-next-android-app-using-rxjava-d1db30ac9fcc)
 - [RxJava (AndroidHive)](https://www.androidhive.info/RxJava/android-getting-started-with-reactive-programming/)
 - [RxJava (Vogella)](http://www.vogella.com/tutorials/RxJava/article.html)
+- [RxJava Operators (reactivex.io)](http://reactivex.io/documentation/operators.html#alphabetical)
 - [Android Library/SDK development (Youtube)](https://www.youtube.com/watch?v=RYiZZprUNJw)
 
 
