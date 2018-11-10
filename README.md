@@ -8,6 +8,8 @@ Find interesting tech readings here.
 
 ## Android
 
+[ProAndroidDev](https://proandroiddev.com/)
+
 - [MVVM - Design Pattern (Medium)](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)
 
 - [Gradle Training (Gradle.org)](https://gradle.org/training/)
