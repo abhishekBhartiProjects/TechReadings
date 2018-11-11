@@ -22,6 +22,7 @@ Find interesting tech readings here.
 - [RxJava (Vogella)](http://www.vogella.com/tutorials/RxJava/article.html)
 - [RxJava Operators (reactivex.io)](http://reactivex.io/documentation/operators.html#alphabetical)
 - [Android Library/SDK development (Youtube)](https://www.youtube.com/watch?v=RYiZZprUNJw)
+- [Dagger 2 Summary (Medium)](https://medium.com/@elye.project/some-quick-notes-on-dagger-2-f2ce1e18623f)
 
 
 
