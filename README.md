@@ -16,12 +16,18 @@ Find interesting tech readings here.
 
 - [Create Instant App (developers.android.com)](https://developer.android.com/topic/google-play-instant/getting-started/feature-plugin)
 
+### RxJava
 - [RxJava (Toptal)](https://www.toptal.com/android/functional-reactive-android-rxjava)
 - [RxJava (Medium)](https://medium.com/exploring-code/code-your-next-android-app-using-rxjava-d1db30ac9fcc)
 - [RxJava (AndroidHive)](https://www.androidhive.info/RxJava/android-getting-started-with-reactive-programming/)
 - [RxJava (Vogella)](http://www.vogella.com/tutorials/RxJava/article.html)
 - [RxJava Operators (reactivex.io)](http://reactivex.io/documentation/operators.html#alphabetical)
+
+### SDK Development
 - [Android Library/SDK development (Youtube)](https://www.youtube.com/watch?v=RYiZZprUNJw)
+- [Best Practices for SDK development (Medium)](https://medium.com/@Robosoft/best-practices-in-mobile-sdk-development-cb6316a14406)
+
+### Dependency Injection (DI)
 - [Dagger 2 Summary (Medium)](https://medium.com/@elye.project/some-quick-notes-on-dagger-2-f2ce1e18623f)
 
 
