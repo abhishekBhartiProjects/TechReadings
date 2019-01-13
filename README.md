@@ -15,6 +15,8 @@ Find interesting tech readings here.
 - [Gradle Training (Gradle.org)](https://gradle.org/training/)
 
 - [Create Instant App (developers.android.com)](https://developer.android.com/topic/google-play-instant/getting-started/feature-plugin)
+- [Android Studio Shortcut (Medium)](https://medium.com/@taylorcase19/my-most-used-android-studio-shortcuts-e3f588e21075)
+
 
 ### RxJava
 - [RxJava (Toptal)](https://www.toptal.com/android/functional-reactive-android-rxjava)
